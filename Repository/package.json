@@ -1,0 +1,8 @@
+{
+  "name": "obsidian-image-repo",
+  "version": "1.0.0",
+  "description": "A simple image repository for use as a free image bed with GitHub Pages.",
+  "scripts": {},
+  "author": "",
+  "license": "MIT"
+}
