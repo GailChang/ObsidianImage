@@ -18,6 +18,7 @@
 - ![Img_占用狀態下拉選單.jpg](https://gailchang.github.io/ObsidianImage/Repository/Img_%E5%8D%A0%E7%94%A8%E7%8B%80%E6%85%8B%E4%B8%8B%E6%8B%89%E9%81%B8%E5%96%AE.jpg)
 - ![Img_占用狀態下拉選單_雛形.jpg](https://gailchang.github.io/ObsidianImage/Repository/Img_%E5%8D%A0%E7%94%A8%E7%8B%80%E6%85%8B%E4%B8%8B%E6%8B%89%E9%81%B8%E5%96%AE_%E9%9B%9B%E5%BD%A2.jpg)
 - ![Img_占用繳款單_收據資料.jpg](https://gailchang.github.io/ObsidianImage/Repository/Img_%E5%8D%A0%E7%94%A8%E7%B9%B3%E6%AC%BE%E5%96%AE_%E6%94%B6%E6%93%9A%E8%B3%87%E6%96%99.jpg)
+- ![Img_占用繳款單_收款金額.jpg](https://gailchang.github.io/ObsidianImage/Repository/Img_%E5%8D%A0%E7%94%A8%E7%B9%B3%E6%AC%BE%E5%96%AE_%E6%94%B6%E6%AC%BE%E9%87%91%E9%A1%8D.jpg)
 - ![Img_案件類型還是狀態.jpg](https://gailchang.github.io/ObsidianImage/Repository/Img_%E6%A1%88%E4%BB%B6%E9%A1%9E%E5%9E%8B%E9%82%84%E6%98%AF%E7%8B%80%E6%85%8B.jpg)
 - ![Pasted image 20250619161129.png](https://gailchang.github.io/ObsidianImage/Repository/Pasted%20image%2020250619161129.png)
 - ![Pasted image 20250619185344.png](https://gailchang.github.io/ObsidianImage/Repository/Pasted%20image%2020250619185344.png)
