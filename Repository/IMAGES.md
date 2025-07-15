@@ -10,6 +10,7 @@
 - ![Img_163620_電表基本資訊.png](https://gailchang.github.io/ObsidianImage/Repository/Img_163620_%E9%9B%BB%E8%A1%A8%E5%9F%BA%E6%9C%AC%E8%B3%87%E8%A8%8A.png)
 - ![Img_165844_自用照明用電.png](https://gailchang.github.io/ObsidianImage/Repository/Img_165844_%E8%87%AA%E7%94%A8%E7%85%A7%E6%98%8E%E7%94%A8%E9%9B%BB.png)
 - ![Img_174544_沒有這個功能要用的.png](https://gailchang.github.io/ObsidianImage/Repository/Img_174544_%E6%B2%92%E6%9C%89%E9%80%99%E5%80%8B%E5%8A%9F%E8%83%BD%E8%A6%81%E7%94%A8%E7%9A%84.png)
+- ![Img_2.3新增停車位資料彈窗.jpg](https://gailchang.github.io/ObsidianImage/Repository/Img_2.3%E6%96%B0%E5%A2%9E%E5%81%9C%E8%BB%8A%E4%BD%8D%E8%B3%87%E6%96%99%E5%BD%88%E7%AA%97.jpg)
 - ![Img_2025-06-20 150946.png](https://gailchang.github.io/ObsidianImage/Repository/Img_2025-06-20%20150946.png)
 - ![Img_2025-06-20_停車位管理_每月租金.png](https://gailchang.github.io/ObsidianImage/Repository/Img_2025-06-20_%E5%81%9C%E8%BB%8A%E4%BD%8D%E7%AE%A1%E7%90%86_%E6%AF%8F%E6%9C%88%E7%A7%9F%E9%87%91.png)
 - ![Img_2025-07-14_地籍顯示.png](https://gailchang.github.io/ObsidianImage/Repository/Img_2025-07-14_%E5%9C%B0%E7%B1%8D%E9%A1%AF%E7%A4%BA.png)
