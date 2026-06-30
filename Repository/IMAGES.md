@@ -34,6 +34,7 @@
 - ![Pasted image 20250611011937.png](https://gailchang.github.io/ObsidianImage/Repository/Pasted%20image%2020250611011937.png)
 - ![Pasted image 20250611011955.png](https://gailchang.github.io/ObsidianImage/Repository/Pasted%20image%2020250611011955.png)
 - ![Pasted image 20250611012505.png](https://gailchang.github.io/ObsidianImage/Repository/Pasted%20image%2020250611012505.png)
+- ![Pasted image 20250611012531.png](https://gailchang.github.io/ObsidianImage/Repository/Pasted%20image%2020250611012531.png)
 - ![Pasted image 20250611012805.png](https://gailchang.github.io/ObsidianImage/Repository/Pasted%20image%2020250611012805.png)
 - ![Pasted image 20250611012826.png](https://gailchang.github.io/ObsidianImage/Repository/Pasted%20image%2020250611012826.png)
 - ![Pasted image 20250611014239.png](https://gailchang.github.io/ObsidianImage/Repository/Pasted%20image%2020250611014239.png)
